@@ -23,3 +23,8 @@ Complete list of knowledge *(or prior knowledge, at least)*:
 - 6\. js (Oh hell no. Don't remember either.)
 - 7\. java (I used it.. ONCE.)
 - 8\. markdown (I learned a lot of it just for what you're seeing right now!)
+
+<!--
+Hey, what are you doing here? Haha, sneaky...
+Well, there's not much else to find here. See you around.
+-->
