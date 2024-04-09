@@ -16,13 +16,11 @@ Anyhow, have fun looking around. Most of my things are probably uploaded just fo
 
 Complete list of knowledge *(or prior knowledge, at least)*:
 - 1\. Python (Extremely well.)
-- 2\. C (Learning.)
-- 3\. C++ (Can make a hello world.)
-- 4\. C# (Used a few times but can't remember a simplistic hello world. Made an app with it though.)
+- 2\. Rust (The language I am actively learning. Comfortable ENOUGH with it so far.)
+- 3\. C (Was learning.)
+- 4\. C++ (Can make a hello world, made command line calculator once.)
 - 5\. html (I can barely make a hello world.)
-- 6\. js (Oh hell no. Don't remember either.)
-- 7\. java (I used it.. ONCE.)
-- 8\. markdown (I learned a lot of it just for what you're seeing right now!)
+- 6\. markdown (I learned a lot of it just for what you're seeing right now!)
 
 <!--
 Hey, what are you doing here? Haha, sneaky...
