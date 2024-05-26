@@ -25,7 +25,7 @@ Complete list of knowledge *(or prior knowledge, at least)*:
 - 6\. markdown (I learned a lot of it just for what you're seeing right now!)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FateUnix29&layout=donut-vertical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FateUnix29&layout=compact#gh-dark-mode-only) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FateUnix29&layout=compact#gh-dark-mode-only) -->
 
 <!--
 Hey, what are you doing here? Haha, sneaky...
