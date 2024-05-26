@@ -24,6 +24,8 @@ Complete list of knowledge *(or prior knowledge, at least)*:
 - 5\. html (I can barely make a hello world.)
 - 6\. markdown (I learned a lot of it just for what you're seeing right now!)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FateUnix29)](https://github.com/FateUnix29/github-readme-stats)
+
 <!--
 Hey, what are you doing here? Haha, sneaky...
 Well, there's not much else to find here. See you around.
