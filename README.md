@@ -26,12 +26,12 @@ Complete list of knowledge *(or prior knowledge, at least)*:
 
 <picture >
   <source
-    height=50 
+    height=350
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FateUnix29&layout=donut-vertical&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    height=50 
+    height=350 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FateUnix29&layout=donut-vertical"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
