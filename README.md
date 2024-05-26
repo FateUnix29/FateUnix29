@@ -12,7 +12,7 @@ I am also learning Rust. I have kind of neglected my skills in C so it's fuzzy.
 I have extensive knowledge in what is in a processing unit, have made my own microcodes/ISA's, can code in machine code if I'm given the ISA (prefered name and if
 it's documented in a way my simplistic brain can understand), and have made a bad (and currently making a good-ish) processor in Minecraft. *(Hey, it's a good simulation!)*
 
-This is actually my Raspberry Pi Model 4 B. My main computer *unfortunately* runs on Windows.
+This is (sometimes) actually my Raspberry Pi Model 4 B. My main computer *unfortunately* runs on Windows.
 
 Anyhow, have fun looking around. Most of my things are probably uploaded just for other specific people.
 
