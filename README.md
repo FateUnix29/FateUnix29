@@ -19,7 +19,7 @@ Complete list of knowledge *(or prior knowledge, at least)*:
 - 4\. C (Was learning. Remember basics.)
 - 5\. C++ (Can make a hello world, made command line calculator once.)
 - 6\. html (I can barely make a hello world.)
-
+<br><br>
 
 <picture >
   <source
