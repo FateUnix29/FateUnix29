@@ -2,19 +2,15 @@
 
 ### You've landed on my home profile.
 
->I prefer to go by *'Copper'* on Github, so if you could, refer to me as that. :)
+##### I prefer to go by *'Copper'* on Github, so if you could, refer to me as that. :)
 
-I am an amateur likes-to-think-of-himself-as-a-really-bad-one coder. I have good experience in Python,
-and I can at the very least read a file into a buffer and print the buffer in C, as well as using *'man [systemcall]'* to figure out new system calls.
+I'm an amateur coder in mainly Python and Rust. I'm not the best, but I have plenty of knowledge on both languages and some knowledge on a few others.
 
-I have also learnt (for the most part) Rust. I have kind of neglected my skills in C so it's fuzzy.
+I have an affinity for Linux, and I at least tolerate Windows 10. Windows 11 (and probably beyond) is a mess and I commonly heavily discourage Windows 11.
 
-I have extensive knowledge in what is in a processing unit, have made my own microcodes/ISA's, can code in machine code if I'm given the ISA (prefered name and if
-it's documented in a way my simplistic brain can understand), and have made a bad (and currently making a good-ish) processor in Minecraft. *(Hey, it's a good simulation!)*
+That being said, I use both Linux and Windows 10, sometimes at the same time, as they are two seperate computers. I created this account on the Linux machine: A Raspberry Pi Model 4B.
 
-This is (sometimes) actually my Raspberry Pi Model 4 B. My main computer *unfortunately* runs on Windows.
-
-Anyhow, have fun looking around. Most of my things are probably uploaded just for other specific people.
+I often distro-hop and have aspirations to create my own Linux/GNU operating system someday to resolve this issue.
 
 Complete list of knowledge *(or prior knowledge, at least)*:
 - 1\. Python (Extremely well.)
