@@ -6,7 +6,7 @@ I'm an amateur coder in mainly Python and Rust. I'm not the best, but I have ple
 
 I have an affinity for Linux, and I at least tolerate Windows 10. Windows 11 (and probably beyond) is a mess and I commonly heavily discourage Windows 11.
 
-That being said, I use both Linux and Windows 10, sometimes at the same time, as they are two seperate computers. I created this account on the Linux machine: A Raspberry Pi Model 4B.
+That being said, I use both Linux and Windows 10, sometimes at the same time, as they are two seperate computers. I created this account on the Linux machine: A Raspberry Pi Model 4B.<br>
 (Now, since then, recently at the time of writing, I have upgraded to a raspi 5.)
 
 I often distro-hop and have aspirations to create my own Linux operating system someday to resolve this issue.<br><br><br>
