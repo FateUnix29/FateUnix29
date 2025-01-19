@@ -14,10 +14,10 @@ I often distro-hop and have aspirations to create my own Linux operating system 
 Complete list of knowledge *(or prior knowledge, at least)*:
 - 1\. Python (Extremely well.)
 - 2\. Rust (The language. Quite comfortable with it.)
-- 3\. C# (Very well. recently learnt.)
+- 3\. C# (Rather well.)
 - 4\. C (Okay. The main issue is finding header files and libraries and what not. Makefiles are also complicated.. ish.)
 - 5\. C++ (Okay by extension (C). No idea what the class stuff is about.)
-- 6\. Java (Somewhat. I know it *enough*, but I know the Microsoft flavor better.)
+- 6\. Java (Somewhat. I know it *enough*, but I know the Microsoft flavor (~~C#~~) better.)
 <br><br>
 
 <picture >
